@@ -8,9 +8,9 @@ The `cd` command is used to navigate between directories.
 
 ### Example 1: Using `cd` with no arguments
 
-\```
+\``
 $ cd
-\```
+\``
 
 **Working Directory:** Anywhere
 
