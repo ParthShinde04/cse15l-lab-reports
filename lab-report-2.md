@@ -69,7 +69,7 @@ public class StringServer {
 ```
 
 Here is a example of me using `/add-message` for the first time:
-![Image of /add-message example 1][images/Lab-Report-2-Screenshot-1.png]
+![Image of /add-message example 1](images/Lab-Report-2-Screenshot-1.png)
 
 1. The `handleRequest` method is called, with the `url` argument being a URI created from the request "/add-message?s=Hello"
 2. The `log` field starts out empty, and `nextNum` starts out as 1
@@ -84,13 +84,13 @@ For the second screenshot:
 ## 2. SSH Keys
 
 1. Here is the private key on my computer:
-![Image of private key on my computer][images/Lab-Report-2-Screenshot-3.png]
+![Image of private key on my computer](images/Lab-Report-2-Screenshot-3.png)
 
 2. Here is the public key on ieng6:
-![Image of public key on ieng account][images/Lab-Report-2-Screenshot-4.png]
+![Image of public key on ieng account](images/Lab-Report-2-Screenshot-4.png)
 
 3. Here is logging in without a password:
-![Image of logging in without password][images/Lab-Report-2-Screenshot-5.png]
+![Image of logging in without password](images/Lab-Report-2-Screenshot-5.png)
 
 ## 3. Things I learned
 
