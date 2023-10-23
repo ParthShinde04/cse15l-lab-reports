@@ -76,7 +76,7 @@ Here is a example of me using `/add-message` for the first time:
 3. The `log` field gets updated to "1. Hello\n" and `nextNum` gets incremented to 2
 
 For the second screenshot:
-![Image of /add-message example 2][images/Lab-Report-2-Screenshot-2.png]
+![Image of /add-message example 2](images/Lab-Report-2-Screenshot-2.png)
 1. The `handleRequest` method is called again, this time with the `url` argument being a URI created from "/add-message?s=HelloWorld"
 2. `log` contains "1. Hello\n" before the request, and `nextNum` is 2
 3. `log` gets updated to contain both messages, and `nextNum` is incremented to 3
