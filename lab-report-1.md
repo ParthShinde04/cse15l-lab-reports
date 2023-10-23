@@ -8,9 +8,9 @@ The `cd` command is used to navigate between directories.
 
 ### Example 1: Using `cd` with no arguments
 
-``
+```
 $ cd
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -20,9 +20,9 @@ With no arguments, `cd` defaults to navigating you to your home directory.
 
 ### Example 2: Using `cd` with a path to a directory as an argument
 
-``
+```
 $ cd Desktop
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -32,9 +32,9 @@ This will take you to the specified directory. If the directory doesn't exist, y
 
 ### Example 3: Using `cd` with a path to a file as an argument
 
-``
+```
 $ cd /Users/parthshinde/Desktop/Fall_23_Schedule.png
-``
+```
 
 **Working Directory:** /Users/parthshinde/Desktop
 
@@ -48,7 +48,7 @@ The `ls` command displays the contents of a directory.
 
 ### Example 4: Using `ls` with no arguments
 
-``
+```
 $ ls
 Applications		Library			go
 Desktop			Movies			node_modules
@@ -56,7 +56,7 @@ Developer		Music			package-lock.json
 Documents		Pictures		package.json
 Downloads		Postman
 Google Drive		Public
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -66,7 +66,7 @@ When used without arguments, `ls` lists the contents of the current directory.
 
 ### Example 5: Using `ls` with a path to a directory as an argument
 
-``
+```
 $ ls /Users/parthshinde/Desktop
 2023-Fall-Ethics-Syllabus.pdf
 Fall_23_Schedule.png
@@ -74,7 +74,7 @@ Resume.pdf
 Resumes Normal
 TCS
 UCSD.pdf
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -84,10 +84,10 @@ This displays the contents of the specified directory. If the directory doesn't 
 
 ### Example 6: Using `ls` with a path to a file as an argument
 
-``
+```
 $ ls /Users/parthshinde/Desktop/Fall_23_Schedule.png
 /Users/parthshinde/Desktop/Fall_23_Schedule.png
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -101,9 +101,9 @@ The `cat` command is used to display the contents of a file.
 
 ### Example 7: Using `cat` with no arguments
 
-``
+```
 $ cat
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -113,9 +113,9 @@ Without arguments, `cat` expects input from the standard input. Otherwise, an er
 
 ### Example 8: Using `cat` with a path to a directory as an argument
 
-``
+```
 $ cat /Users/parthshinde/Desktop
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
@@ -125,11 +125,11 @@ You can't use `cat` on a directory. It's designed for files, so this command wil
 
 ### Example 9: Using `cat` with a path to a file as an argument
 
-``
+```
 $ cat /Users/parthshinde/Desktop/hello_world.txt
 Hello World!
 This is a sample file made by me for this Lab Report.
-``
+```
 
 **Working Directory:** /Users/parthshinde (Home Directory)
 
