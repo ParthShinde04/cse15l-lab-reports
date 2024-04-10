@@ -57,3 +57,34 @@
 **Absolute path before command:** `/Users/parthshinde/`
 
 **Explanation:**  This command outputs the name of the file if it exists. If not, an error will indicate that the file does not exist.
+
+
+# 3. `cat` Command
+
+**No arguments:** Without arguments, `cat` waits for input from the user typing.
+
+![Cat No argument](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-1/images/Lab-Report-1-Image-7.png)
+
+**Absolute path before command:** `/Users/parthshinde/`
+
+**Explanation:** `cat` without arguments expects input from the user. It's not an error but waiting for input.
+
+---
+
+**Directory arguments:** Trying to `cat` a directory will result in an error.
+
+![Cat Dir argument](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-1/images/Lab-Report-1-Image-8.png)
+
+**Absolute path before command:** `/Users/parthshinde/`
+
+**Explanation:** You can't use `cat` on a directory, so this will result in an error message.
+
+---
+
+**File arguments:** Displays the contents of the specified file.
+
+![Cat File argument](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-1/images/Lab-Report-1-Image-9.png)
+
+**Absolute path before command:** `/Users/parthshinde/`
+
+**Explanation:** This command displays the content of `example.txt` if the file exists. If the file doesn't exist, it results in an error.
