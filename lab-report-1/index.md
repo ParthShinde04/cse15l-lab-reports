@@ -47,3 +47,13 @@
 **Absolute path before command:** `/Users/parthshinde/`
 
 **Explanation:** This command lists the contents of `/Users/parthshinde/Developer`. If the directory exists, there's no error; otherwise, an error message will show.
+
+---
+
+**File arguments:** Lists the specified file if it exists.
+
+![LS File argument](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-1/images/Lab-Report-1-Image-6.png)
+
+**Absolute path before command:** `/Users/parthshinde/`
+
+**Explanation:**  This command outputs the name of the file if it exists. If not, an error will indicate that the file does not exist.
