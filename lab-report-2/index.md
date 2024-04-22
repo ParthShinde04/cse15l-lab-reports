@@ -101,6 +101,7 @@ Here is the flow and changes in the field values step-by-step, given the request
     - The `chatLog` already contains `"parth: Hello\n"`. After extracting the parameters, the new message `"kylie: Hey\n"` is appended.
     - Therefore, `chatLog` changes from `"parth: Hello\n"` to `"parth: Hello\nkylie: Hey\n"`.
 ---
+
 # Part 2: SSH and Remote Servers
 
 ---
