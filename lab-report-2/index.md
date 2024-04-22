@@ -103,13 +103,13 @@ Here is the flow and changes in the field values step-by-step, given the request
 
 ---
 # Part 2: SSH and Remote Servers
-**Path to Private Key on local device**
+Path to Private Key on local device
 ![Path to Private Key on local device](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-4.png)
 
-**Path to Public Key on ieng6 device**
+Path to Public Key on ieng6 device
 ![Path to Public Key on ieng6 device](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-5.png)
 
-**Logging into ieng6 without a Password**
+Logging into ieng6 without a Password
 ![Logging in without password](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-5.png)
 
 ---
