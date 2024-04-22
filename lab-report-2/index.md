@@ -114,4 +114,5 @@ Logging into ieng6 without a Password
 
 ---
 # Part 3: Reflection
-
+In week 2 I learned how to log into a remote server using `ssh` and how to download things from an URL using `curl`.
+I also learned about starting and running servers. In week 3, I learned about private/public keys and how they could be use to login without requiring passwords.
