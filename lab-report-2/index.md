@@ -110,7 +110,7 @@ Path to Public Key on ieng6 device
 ![Path to Public Key on ieng6 device](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-5.png)
 
 Logging into ieng6 without a Password
-![Logging in without password](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-5.png)
+![Logging in without password](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-6.png)
 
 ---
 # Part 3: Reflection
