@@ -57,7 +57,7 @@ class ChatServer {
 ![Demo 1 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-1.png)
 
 **After:**
-![Demo 2 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-1.png)
+![Demo 2 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-2/images/Lab-Report-2-Image-2.png)
 
 **Methods Called:** handleRequest(URI url) - The URL from the request is parsed to determine the path and query parameters.
 
