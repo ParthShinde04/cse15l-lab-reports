@@ -1,5 +1,5 @@
 # Part 1: Bugs
-This is the buggy code. 
+This is the full buggy code. 
 
 ```
 public class ArrayExamples {
