@@ -47,6 +47,7 @@ quality objectives and quality assurance plan.
 
 Searches for "objective" in `technical/government/Env_Prot_Agen/ctf7-10.txt`, 
 capturing all cases such as "Objective", "OBJECTIVE", etc.
+
 ---
 
 ### 2. Recursive Search (-r)
@@ -161,6 +162,7 @@ Output:
 ```
 
 Searches recursively for the term "Dangerous" in all documentation files within `./technical`.
+
 ---
 
 ### 3. Only Matching (-o)
@@ -195,6 +197,7 @@ It
 ```
 
 Extracts occurrences of the word "It" as a whole word from `technical/government/Media/A_helping_hand.txt`.
+
 ---
 
 ### 4. Line Number (-n)
