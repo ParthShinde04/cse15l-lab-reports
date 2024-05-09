@@ -12,7 +12,10 @@ when the casing of the text isn't consistent or known.
 grep -i "hello" technical/911report/chapter-1.txt
 
 Output:
-At 10:39, the Vice President updated the Secretary on the air threat conference: Vice President: There's been at least three instances here where we've had reports of aircraft approaching Washington-a couple were confirmed hijack. And, pursuant to the President's instructions I gave authorization for them to be taken out. Hello?
+At 10:39, the Vice President updated the Secretary on the air threat conference: \n
+Vice President: There's been at least three instances here where we've had reports \n
+of aircraft approaching Washington-a couple were confirmed hijack. And, pursuant to \n
+the President's instructions I gave authorization for them to be taken out. Hello?
 ```
 
 This command searches for the word "hello" in `technical/911report/chapter-1.txt`, ignoring case differences
