@@ -38,6 +38,8 @@ public class ArrayExamples {
 }
 ```
 
+---
+
 ### Failure Inducing Input
 
 This input (JUnit test case) fails
@@ -52,6 +54,8 @@ public class ArrayTests {
     }
 }
 ```
+
+---
 
 ### Non-failure Inducing Input
 
@@ -68,12 +72,52 @@ public class ArrayTests {
 }
 ```
 
+---
+
 ### The Symptoms
 
 Image of test results
-![Image 1]()
+![Image 1](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-3/images/Image-1.png)
+
+---
+
+### Bugs
+
+Before (Only specific method):
+
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+        arr[i] = arr[arr.length - i - 1];
+    }
+}
+```
+
+After:
+
+```
+static void reverseInPlace(int[] arr) {
+    for (int i = 0; i < arr.length / 2; i++) {
+        int temp = arr[i];
+        arr[i] = arr[arr.length - i - 1];
+        arr[arr.length - i - 1] = temp;
+    }
+}
+```
+
+---
+
+### Explaination
 
 
+The fix to the code addresses the issue by ensuring that each element of the 
+array is only swapped once. This is achieved by only iterating through the first
+half of the array and swapping each element with its corresponding element from
+the second half. Using a temporary variable prevents any data from being overwritten
+during the swap, ensuring that all original values are preserved and correctly 
+positioned in their new spots. This method avoids the problem of the original 
+code, where elements were swapped back to their initial positions when the loop 
+continued beyond the array's midpoint.
 
 # Part 2: Researching Commands
 ### 1. Case-Insensitive Search (-i)
