@@ -70,6 +70,9 @@ public class ArrayTests {
 
 ### The Symptoms
 
+Image of test results
+![Image 1]()
+
 
 
 # Part 2: Researching Commands
