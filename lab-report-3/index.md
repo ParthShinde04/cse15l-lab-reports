@@ -107,7 +107,7 @@ static void reverseInPlace(int[] arr) {
 
 ---
 
-### Explaination
+### Explanation
 
 
 The fix to the code addresses the issue by ensuring that each element of the 
