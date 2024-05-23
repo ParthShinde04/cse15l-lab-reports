@@ -54,7 +54,7 @@ Summary: These commands open the `ListExamples.java` file in vim, search for the
 ### Step 8
 
 Screenshot
-![Step 8 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-5.png)
+![Step 8 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-5.png =200x200)
 
 Keys Pressed: `<up><up><enter>`
 
