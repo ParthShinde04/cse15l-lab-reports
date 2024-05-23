@@ -53,7 +53,7 @@ Summary: These commands open the `ListExamples.java` file in vim, search for the
 
 ### Step 8
 
-Screenshot  
+Screenshot\
 ![Step 8 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-5.png)
 
 Keys Pressed: `<up><up><enter>`
