@@ -1,6 +1,6 @@
 ### Step 4
 
-Screenshot
+Screenshot  
 ![Step 4 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-1.png)
 
 Keys Pressed: `ssh<space>your_username@ieng6.ucsd.edu<enter>`
@@ -11,7 +11,7 @@ Summary: This command logs you into the ieng6 server.
 
 ### Step 5
 
-Screenshot
+Screenshot  
 ![Step 5 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-2.png)
 
 Keys Pressed: `git<space>clone<space>git@github.com:ParthShinde04/lab7.git<enter>cd<space>lab7<enter>`
@@ -23,7 +23,7 @@ URL and change the directory to the cloned repository.
 
 ### Step 6
 
-Screenshot
+Screenshot  
 ![Step 6 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-3.png)
 
 Keys pressed: `bash<space>test.sh<enter>`
@@ -35,7 +35,7 @@ necessary classpath and then runs the JUnit tests, showing that they fail.
 
 ### Step 7
 
-Screenshot
+Screenshot  
 ![Step 7 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-4.png)
 
 Keys Pressed:
@@ -53,8 +53,8 @@ Summary: These commands open the `ListExamples.java` file in vim, search for the
 
 ### Step 8
 
-Screenshot
-![Step 8 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-5.png =200x200)
+Screenshot  
+![Step 8 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-5.png)
 
 Keys Pressed: `<up><up><enter>`
 
@@ -64,7 +64,7 @@ Summary: These arrow keys go back in history and run `bash test.sh` command agai
 
 ### Step 9
 
-Screenshot
+Screenshot  
 ![Step 9 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-6.png)
 
 Keys Pressed:
