@@ -3,7 +3,7 @@
 Screenshot  
 ![Step 4 Image](https://parthshinde04.github.io/cse15l-lab-reports/lab-report-4/images/Image-1.png)
 
-Keys Pressed: `ssh<space>your_username@ieng6.ucsd.edu<enter>`
+Keys Pressed: `ssh<space>pshinde@ieng6.ucsd.edu<enter>`
 
 Summary: This command logs you into the ieng6 server.
 
