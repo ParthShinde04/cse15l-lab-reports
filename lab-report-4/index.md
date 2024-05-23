@@ -74,5 +74,5 @@ git<space>commit<space>-m<space>"All<space>tests<space>passed"<enter>
 git<space>push<enter>
 ```
 
-Summary: These commands add the modified ListExamples.java file to the staging area, 
+Summary: These commands add the modified `ListExamples.java` file to the staging area, 
 commit the changes with a message, and push the changes to your Github repository.
