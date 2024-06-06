@@ -1,6 +1,7 @@
 ### Canvas Post
 
 **Student**
+
 I'm having trouble with my Java program, which is supposed to read a text 
 file and print its contents to the console. However, when I run my script, 
 it only prints "File not found" even though the file exists in the same 
